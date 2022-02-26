@@ -1,0 +1,16 @@
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\bin\Debug\net5.0\Exerc_Arquivos.exe
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\bin\Debug\net5.0\Exerc_Arquivos.deps.json
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\bin\Debug\net5.0\Exerc_Arquivos.runtimeconfig.json
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\bin\Debug\net5.0\Exerc_Arquivos.runtimeconfig.dev.json
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\bin\Debug\net5.0\Exerc_Arquivos.dll
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\bin\Debug\net5.0\ref\Exerc_Arquivos.dll
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\bin\Debug\net5.0\Exerc_Arquivos.pdb
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\obj\Debug\net5.0\Exerc_Arquivos.csproj.AssemblyReference.cache
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\obj\Debug\net5.0\Exerc_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\obj\Debug\net5.0\Exerc_Arquivos.AssemblyInfoInputs.cache
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\obj\Debug\net5.0\Exerc_Arquivos.AssemblyInfo.cs
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\obj\Debug\net5.0\Exerc_Arquivos.csproj.CoreCompileInputs.cache
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\obj\Debug\net5.0\Exerc_Arquivos.dll
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\obj\Debug\net5.0\ref\Exerc_Arquivos.dll
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\obj\Debug\net5.0\Exerc_Arquivos.pdb
+C:\_UserDaniel\Estudo\Tecnologias\_C#\Exercícios\Exerc_Arquivos\obj\Debug\net5.0\Exerc_Arquivos.genruntimeconfig.cache
